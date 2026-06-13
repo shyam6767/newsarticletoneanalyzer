@@ -1,0 +1,8 @@
+flask
+flask-cors
+requests
+jsonify
+gunicorn
+beautifulsoup4
+vaderSentiment
+textblob
